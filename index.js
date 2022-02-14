@@ -1,7 +1,7 @@
 module.exports= {
     
-     getVersion() {
-          return  '1.0.0'
+     getMyVersion() {
+          return  '2.0.0'
      }
 
 }
